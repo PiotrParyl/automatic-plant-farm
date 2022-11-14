@@ -1,1 +1,18 @@
 # automatic-plant-farm
+
+
+In sensors dir i store python filesa. They have source code of microcontrollers controlling sensors. In firs step we have to check if every sensor work corect, then we can put every thing together and star thinking how to connectrs all sensors to one microcontrorel. Afther this we have to creat a program who will read data form sensor store in data base and make appropriate decisions based on the data received. 
+
+
+
+1. Temp_Humi_Sensor
+
+WebSite - https://randomnerdtutorials.com/esp32-esp8266-dht11-dht22-micropython-temperature-humidity-sensor/
+
+Foto - 315519600_857761018976084_2768114484407298423_n.jpg
+
+2. Soil_moistur_sensor.py
+
+Website - 
+
+Foto - 
