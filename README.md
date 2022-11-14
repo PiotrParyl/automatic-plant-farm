@@ -11,6 +11,9 @@ WebSite - https://randomnerdtutorials.com/esp32-esp8266-dht11-dht22-micropython-
 
 Foto - 315519600_857761018976084_2768114484407298423_n.jpg
 
+Foto2 - ![image](https://user-images.githubusercontent.com/44020188/201703087-0c227c76-2c98-4c52-9194-36bba1a49cce.png)
+
+
 2. Soil_moistur_sensor.py
 
 Website - 
