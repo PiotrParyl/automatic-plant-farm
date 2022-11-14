@@ -22,4 +22,6 @@ When i put sensor to the ground, right now it shows 450. The ground looks like i
 Website - https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/
 
 Foto - ![image](https://user-images.githubusercontent.com/44020188/201771402-10cf9783-da7a-4ee3-abe6-8dc374970ee7.png)
+foto2 - ![image](https://user-images.githubusercontent.com/44020188/201774917-c4591253-b0aa-4a57-8360-4943119ba849.png)
+
 
