@@ -16,6 +16,10 @@ Foto2 - ![image](https://user-images.githubusercontent.com/44020188/201703087-0c
 
 2. Soil_moistur_sensor.py
 
-Website - 
+So far i can read value from the sensor. Value 3 means that senso is free (sensor is not touching enything). When i put sensor to water value is something about 645 650.
+When i put sensor to the ground, right now it shows 450. The ground looks like is wet enough.
 
-Foto - 
+Website - https://randomnerdtutorials.com/esp32-esp8266-analog-readings-micropython/
+
+Foto - ![image](https://user-images.githubusercontent.com/44020188/201771402-10cf9783-da7a-4ee3-abe6-8dc374970ee7.png)
+
